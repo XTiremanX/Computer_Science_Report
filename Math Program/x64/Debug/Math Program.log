@@ -1,0 +1,4 @@
+﻿  Math_main.c
+C:\Users\leesh\Desktop\Project\C_practice\Math Program\Math Program\Math_main.c(169,9): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+C:\Users\leesh\Desktop\Project\C_practice\Math Program\Math Program\Math_main.c(169,12): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+  Math Program.vcxproj -> C:\Users\leesh\Desktop\Project\C_practice\Math Program\x64\Debug\Math Program.exe
